@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://smollylolly.ru/sitemap.xml
