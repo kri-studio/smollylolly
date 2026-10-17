@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64"><title>Smolly Lolly</title><rect width="64" height="64" rx="14" fill="#FFFCFD"/><svg x="2" y="2" width="60" height="60" viewBox="8 12 104 100" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <g stroke="#EE5D9B" stroke-width="6.5" stroke-linejoin="round" stroke-linecap="round">
+      <circle cx="34" cy="36" r="15" fill="#FFFCFD"/>
+      <circle cx="86" cy="36" r="15" fill="#FFFCFD"/>
+      <path d="M16,66 C16,43 33,32 60,32 C87,32 104,43 104,66 C104,87 85,98 60,98 C35,98 16,87 16,66 Z" fill="#FFFCFD"/>
+    </g>
+    <ellipse cx="43" cy="62" rx="12" ry="16" transform="rotate(-20 43 62)" fill="#EE5D9B"/>
+    <ellipse cx="77" cy="62" rx="12" ry="16" transform="rotate(20 77 62)" fill="#EE5D9B"/>
+    <circle cx="47" cy="67" r="4.4" fill="#FFFCFD"/>
+    <circle cx="73" cy="67" r="4.4" fill="#FFFCFD"/>
+    <path d="M60,72 C55.5,72 53,75.5 55.2,79 C56.8,81.5 60,84 60,84 C60,84 63.2,81.5 64.8,79 C67,75.5 64.5,72 60,72 Z" fill="#EE5D9B"/>
+    <path d="M50,84 C54.5,90 65.5,90 70,84" stroke="#EE5D9B" stroke-width="5" fill="none" stroke-linecap="round"/>
+  </svg></svg>
